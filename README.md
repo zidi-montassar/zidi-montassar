@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/montassar-zidi-141270238/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="0021655168854" target="_blank">
+  <a href="+21655168854" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
   </a>
   <a href="https://x.com/cris_monta" target="_blank">
