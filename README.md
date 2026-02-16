@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Montassar Zidi<br><br>- 🔭 I’m an IT developer and i am working as a freelancer<br>- 🌐 www.monta.royalrides.eu<br>- 📚 I'm currently learning Machine Learning and AI Generating<br>- ⚡ In my free time I try to explore new discoveries and developments</p>
+<p align="left">I'm Montassar Zidi<br><br>- 🔭 I’m an IT developer and i am working as a freelancer<br>- 🌐 www.montazidi.com<br>- 📚 I'm currently learning Machine Learning and AI Generating<br>- ⚡ In my free time I try to explore new discoveries and developments</p>
 
 ###
 
